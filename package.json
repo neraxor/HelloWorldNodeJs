@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "firstTry",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
